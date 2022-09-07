@@ -1,0 +1,17 @@
+.idea
+.idea/
+.DS_Store
+node_modules/
+.project
+dist
+dist/*
+dist1
+dist1/*
+src/config/env.js
+*.zip
+*.7z
+src/config/env.js
+yarn.lock
+package-lock.json
+build/
+static/3d/
